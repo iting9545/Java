@@ -21,7 +21,7 @@
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
  * SOFTWARE.
  * 
- * E-mail: 954576654@qq.com
+ * Any questions, please contact me by email 954576654@qq.com
  * 
  * 
  * 
